@@ -16,7 +16,7 @@ Telegram bot for business account management with message tracking, streaks, and
 
 1. Clone repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/quuxgit/convenient-gram.git
 cd convenient-gram
 ```
 
